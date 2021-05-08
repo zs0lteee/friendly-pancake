@@ -2069,12 +2069,7 @@ svg[name=Nitro] g path {
 
 
 .wrapper-1BJsBx[aria-label=Home] {
-	transition: all .3s ease;
-	background-image: linear-gradient(to left,var(--primaryGradient1),var(--primaryGradient2));
-	-webkit-mask-image: url(https://imgur.com/a/GWIZUgm);
-	-webkit-mask-position: center;
-	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-size: contain
+	background-image: url(https://imgur.com/a/GWIZUgm);
 }
 
 .wrapper-1BJsBx[aria-label=Home] .childWrapper-anI2G9 {
