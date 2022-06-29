@@ -92,7 +92,7 @@ tasks:
 
   ## fivem-appearance
   - action: download_file
-    url: https://github.com/pedr0fontoura/fivem-appearance/releases/download/v1.3.1/fivem-appearance.rar
+    url: https://github.com/pedr0fontoura/fivem-appearance/releases/latest/download/fivem-appearance.rar
     path: ./tmp/fivem-appearance.zip
   - action: unzip
     src: ./tmp/fivem-appearance.zip
