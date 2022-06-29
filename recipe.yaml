@@ -90,6 +90,14 @@ tasks:
     src: ./tmp/ox_inventory.zip
     dest: ./resources
 
+  ## fivem-appearance
+  - action: download_file
+    url: https://github.com/pedr0fontoura/fivem-appearance/releases/download/v1.3.1/fivem-appearance.rar
+    path: ./tmp/fivem-appearance.zip
+  - action: unzip
+    src: ./tmp/fivem-appearance.zip
+    dest: ./resources
+
   ## npwd
   - action: download_file
     url: https://github.com/project-error/npwd/releases/latest/download/npwd.zip
